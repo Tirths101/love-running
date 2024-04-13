@@ -173,6 +173,7 @@ main {
         right: 50px;
     }
 
+    /* Reasons section */
     #benefits-physical,
     #benefits-mental {
         display: flex;
